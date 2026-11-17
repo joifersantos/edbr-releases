@@ -1,5 +1,6 @@
-# Easy DB Restore - releases
+# Easy DB Restore
 
-Artefatos oficiais do Easy DB Restore. Cada release publica o instalador
-Windows (`EasyDBRestore-Setup-<versão>.exe`) e o SHA-256 correspondente.
-O código-fonte fica no repositório privado do projeto.
+Instalador Windows (`EasyDBRestore-Setup-<versão>.exe`) e o SHA-256 correspondente.
+Licença de uso comercializada através de [EDBR](https://edbr.dataspec.tech).
+
+© 2026 [DataSpec Tech](https://dataspec.tech). Todos os direitos reservados.
